@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Rodriguez</h1>
-<h3 align="center">An aspiring software engineer and Electrical and computer engineering major.</h3>
+<h3 align="center">NYIT I'm an Undergrad Student, An aspiring software engineer, and Electrical and computer engineering major.</h3>
 
 - 🌱 I’m currently learning **Data Structures, College Physics 1, and Calculus 2**
 
