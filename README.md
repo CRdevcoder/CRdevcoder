@@ -4,6 +4,7 @@
 - 🌱 I had learned **Data Structures, College Physics 1, and Calculus 3**
 
 - 📫 How to reach me **chris.rodriguez8123@gmail.com**
+- LinkedIn Profile - **https://www.linkedin.com/in/christopher-rodriguez-97525b309/**
 
 <p align="left">
 </p>
