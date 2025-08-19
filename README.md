@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher Rodriguez</h1>
 <h3 align="center"> I'm an Undergrad NYIT Student, An aspiring software engineer, and Electrical and computer engineering major.</h3>
 
-- 🌱 I’m currently learning **Data Structures, College Physics 1, and Calculus 2**
+- 🌱 I had learned **Data Structures, College Physics 1, and Calculus 3**
 
 - 📫 How to reach me **chris.rodriguez8123@gmail.com**
 
